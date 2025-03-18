@@ -1,6 +1,6 @@
 # ASI Bug Example
 
-This is an small Node project for students to run and see in-person issues that JavaScript's Automatic Semicolon Insertion (ASI) subsystem can run into.
+This is an small Node project for students to run and experience issues that JavaScript's Automatic Semicolon Insertion (ASI) subsystem can run into.
 
 1. Before starting, run `npm install` or `npm i` to install dependencies.
 
